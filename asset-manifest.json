@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/ericsonportfolireact/static/css/main.6bdeedc7.chunk.css",
-    "main.js": "/ericsonportfolireact/static/js/main.1148f249.chunk.js",
-    "main.js.map": "/ericsonportfolireact/static/js/main.1148f249.chunk.js.map",
+    "main.css": "/ericsonportfolireact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ericsonportfolireact/static/js/main.53490f44.chunk.js",
+    "main.js.map": "/ericsonportfolireact/static/js/main.53490f44.chunk.js.map",
     "runtime-main.js": "/ericsonportfolireact/static/js/runtime-main.d7a4f8db.js",
     "runtime-main.js.map": "/ericsonportfolireact/static/js/runtime-main.d7a4f8db.js.map",
-    "static/css/2.3b6f1bda.chunk.css": "/ericsonportfolireact/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.fc6ff093.chunk.js": "/ericsonportfolireact/static/js/2.fc6ff093.chunk.js",
-    "static/js/2.fc6ff093.chunk.js.map": "/ericsonportfolireact/static/js/2.fc6ff093.chunk.js.map",
+    "static/js/2.2d4b4ab3.chunk.js": "/ericsonportfolireact/static/js/2.2d4b4ab3.chunk.js",
+    "static/js/2.2d4b4ab3.chunk.js.map": "/ericsonportfolireact/static/js/2.2d4b4ab3.chunk.js.map",
     "index.html": "/ericsonportfolireact/index.html",
-    "precache-manifest.7bd29b4b0fdbcdd868d97b315493018b.js": "/ericsonportfolireact/precache-manifest.7bd29b4b0fdbcdd868d97b315493018b.js",
+    "precache-manifest.6ed2aae63ba1d3c75f54fe788ee1a47a.js": "/ericsonportfolireact/precache-manifest.6ed2aae63ba1d3c75f54fe788ee1a47a.js",
     "service-worker.js": "/ericsonportfolireact/service-worker.js",
-    "static/css/2.3b6f1bda.chunk.css.map": "/ericsonportfolireact/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.6bdeedc7.chunk.css.map": "/ericsonportfolireact/static/css/main.6bdeedc7.chunk.css.map",
-    "static/js/2.fc6ff093.chunk.js.LICENSE.txt": "/ericsonportfolireact/static/js/2.fc6ff093.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ericsonportfolireact/static/media/SEGA.12a3db8b.woff"
+    "static/css/main.5f361e03.chunk.css.map": "/ericsonportfolireact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2d4b4ab3.chunk.js.LICENSE.txt": "/ericsonportfolireact/static/js/2.2d4b4ab3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ericsonportfolireact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d7a4f8db.js",
-    "static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.fc6ff093.chunk.js",
-    "static/css/main.6bdeedc7.chunk.css",
-    "static/js/main.1148f249.chunk.js"
+    "static/js/2.2d4b4ab3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.53490f44.chunk.js"
   ]
 }
