@@ -170,18 +170,6 @@
       "Area": "Test Driven Development",
       "SkillSet": [
         {
-          "Name": "Junit Test",
-          "Hot": false
-        },
-        {
-          "Name": "Jasmine Test",
-          "Hot": true
-        },
-        {
-          "Name": "MSTest",
-          "Hot": false
-        },
-        {
           "Name": "Selenium Functional Test",
           "Hot": false
         }
@@ -229,31 +217,24 @@
   ],
   "Education": [
     {
-      "SchoolName": "University of Demo",
-      "Date": "2013 - 2017",
+      "SchoolName": "Polytechnic University of the Philippines",
+      "Date": "2014 - Present",
+      "Degree": "Master of Science - Information Technology (MSIT)",
+      "Location": "Stamesa Manila, Philippines",
+      "Description": "The Polytechnic University of the Philippines (PUP) is a government educational institution governed by Republic Act Number 8292 known as the Higher Education Modernization Act of 1997, and its Implementing Rules and Regulations contained in the Commission on Higher Education Memorandum Circular No. 4, series 1997. PUP is one of the country's highly competent educational institutions. The PUP Community is composed of the Board of Regents, University Officials, Administrative and Academic Personnel, Students, various Organizations, and the Alumni.",
+      "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Polytechnic_University_of_the_Philippines.svg/200px-Polytechnic_University_of_the_Philippines.svg.png",
+      "SchoolLink": "https://www.pup.edu.ph/about/",
+      "Awards": []
+    },
+    {
+      "SchoolName": "Pamantasan ng Lungsod ng Muntinlupa",
+      "Date": "2008 - 2012",
       "Degree": "Bachelor of Science - BS, Computer Science",
-      "Location": "Vancouver BC. Canada",
-      "Description": "Demo",
-      "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      "SchoolLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      "Awards": [
-        {
-          "Name": "Award 1",
-          "Date": "Mar 2017",
-          "Region": "Vancouver BC. Canada",
-          "Organization": "Demo",
-          "Description": "Demo award",
-          "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
-        },
-        {
-          "Name": "Award 2",
-          "Date": "May 2019",
-          "Region": "Toronto ON. Canada",
-          "Organization": "Demo",
-          "Description": "Demo award",
-          "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
-        }
-      ]
+      "Location": "Muntinlupa City,Manila,Philippines",
+      "Description": "Pamantasan ng Lungsod ng Muntinlupa, NBP Reservation, Muntinlupa City, 1770 Metro Manila",
+      "SchoolImage": "https://66.media.tumblr.com/33ca84afd52d5cd0ef7bb1bb66c6176b/tumblr_o4ti6j8k6r1unefbyo1_400.png",
+      "SchoolLink": "http://www.plmun.edu.ph/",
+      "Awards": []
     }
   ]
 }
