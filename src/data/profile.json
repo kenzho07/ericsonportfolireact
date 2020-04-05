@@ -1,0 +1,259 @@
+{
+  "Name": "Ericson V. Ciriaco",
+  "Position": "Software Developer",
+  "Description": "Change the world the way of programming approach!.",
+  "Address": "Poblacion,Muntinlupa City",
+  "Company": "Upwork.com",
+  "School": "Pamantasan Lungsod ng Muntinlupa - College",
+  "School1": "Polytechnic University of the Philippines - Master",
+  "SocialMedias": [
+    "https://github.com/kenzho07",
+    "https://www.linkedin.com/in/ericson-ciriaco/",
+    "https://www.facebook.com/cenpot"
+  ],
+  "experiences": [
+    {
+      "companyName": "FULLSTACK Developer",
+      "logo": "https://financesonline.com/uploads/2019/08/upwork-logo11.png",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "FULLSTACK developer",
+          "description": "Developed web-based Software.",
+          "startDate": "2015-01-08",
+          "currentJob": true,
+          "location": "Philippines"
+        }
+      ]
+    },
+    {
+      "companyName": "MCTI-TESDA Muntinlupa",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsEXjpk9JxigrDW8w0kpQVhA8EMImxayYTV-afAjZFTO2mL6xj&usqp=CAU",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "Consultant PHP Developer",
+          "description": "Developed web-based Software.",
+          "startDate": "2019-10-08",
+          "currentJob": true,
+          "location": "Putatan, Muntinlupa City"
+        }
+      ]
+    },
+    {
+      "companyName": "Tell.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ0mU4YZCTpSSu8Euz8Q5kJhjuBi3ni-0zwYnFwwxV71wVK3X2&usqp=CAU",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "Web Developer",
+          "description": "Built and updated various website and wordpress plugins.",
+          "startDate": "2019-06-01",
+          "endDate": "2019-11-16",
+          "location": "30th Street BGC, Taguig City"
+        }
+      ]
+    },
+    {
+      "companyName": "Tao Lost Boys Inc.",
+      "logo": "https://www.taophilippines.com/fileadmin/sys/images/tao-logo.png",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "Wordpress Developer",
+          "description": "Design user-fridendly web page and create booking template design.",
+          "startDate": "2019-01-01",
+          "endDate": "2019-06-01",
+          "location": "Estrella, Makati City"
+        }
+      ]
+    }
+  ],
+  "Skills": [
+    {
+      "Area": "Programming Language",
+      "SkillSet": [
+        {
+          "Name": "PHP",
+          "Hot": true
+        },
+        {
+          "Name": "JavaScript (ES5, ES6)",
+          "Hot": true
+        },
+        {
+          "Name": "VB6",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Web-Based Application Development",
+      "SkillSet": [
+        {
+          "Name": "TypeScript",
+          "Hot": false
+        },
+        {
+          "Name": "PHP Codeigniter",
+          "Hot": false
+        },
+        {
+          "Name": "HTML5",
+          "Hot": true
+        },
+        {
+          "Name": "CSS3 (SCSS/SASS)",
+          "Hot": true
+        },
+        {
+          "Name": "React",
+          "Hot": true
+        },
+        {
+          "Name": "Redux",
+          "Hot": false
+        },
+        {
+          "Name": "JQuery",
+          "Hot": false
+        },
+        {
+          "Name": "NPM",
+          "Hot": false
+        },
+        {
+          "Name": "Parcel",
+          "Hot": false
+        },
+        {
+          "Name": "WebPack",
+          "Hot": false
+        },
+        {
+          "Name": "UX/UI Design",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Database",
+      "SkillSet": [
+        {
+          "Name": "MySQL",
+          "Hot": false
+        },
+        {
+          "Name": "MongoDB ",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Platforms",
+      "SkillSet": [
+        {
+          "Name": "Windows",
+          "Hot": false
+        },
+        {
+          "Name": "Unix/Linux",
+          "Hot": false
+        },
+        {
+          "Name": "Mac OS",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Test Driven Development",
+      "SkillSet": [
+        {
+          "Name": "Junit Test",
+          "Hot": false
+        },
+        {
+          "Name": "Jasmine Test",
+          "Hot": true
+        },
+        {
+          "Name": "MSTest",
+          "Hot": false
+        },
+        {
+          "Name": "Selenium Functional Test",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Software Development Tools and Concepts",
+      "SkillSet": [
+        {
+          "Name": "Git",
+          "Hot": true
+        },
+        {
+          "Name": "Agile",
+          "Hot": true
+        }
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Demo Project 1",
+      "Description": "Demo",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+    },
+    {
+      "Name": "Demo Project 2",
+      "Description": "Demo",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+    },
+    {
+      "Name": "Demo Project 3",
+      "Description": "Demo",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+    },
+    {
+      "Name": "Demo Project 4",
+      "Description": "Demo",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+    }
+  ],
+  "Education": [
+    {
+      "SchoolName": "University of Demo",
+      "Date": "2013 - 2017",
+      "Degree": "Bachelor of Science - BS, Computer Science",
+      "Location": "Vancouver BC. Canada",
+      "Description": "Demo",
+      "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      "SchoolLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      "Awards": [
+        {
+          "Name": "Award 1",
+          "Date": "Mar 2017",
+          "Region": "Vancouver BC. Canada",
+          "Organization": "Demo",
+          "Description": "Demo award",
+          "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+        },
+        {
+          "Name": "Award 2",
+          "Date": "May 2019",
+          "Region": "Toronto ON. Canada",
+          "Organization": "Demo",
+          "Description": "Demo award",
+          "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+        }
+      ]
+    }
+  ]
+}
