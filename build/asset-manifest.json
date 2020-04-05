@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ericsonportfolireact/static/css/main.747b7de1.chunk.css",
+    "main.js": "/ericsonportfolireact/static/js/main.f94b4769.chunk.js",
+    "main.js.map": "/ericsonportfolireact/static/js/main.f94b4769.chunk.js.map",
+    "runtime-main.js": "/ericsonportfolireact/static/js/runtime-main.d7a4f8db.js",
+    "runtime-main.js.map": "/ericsonportfolireact/static/js/runtime-main.d7a4f8db.js.map",
+    "static/css/2.e15a0812.chunk.css": "/ericsonportfolireact/static/css/2.e15a0812.chunk.css",
+    "static/js/2.97347912.chunk.js": "/ericsonportfolireact/static/js/2.97347912.chunk.js",
+    "static/js/2.97347912.chunk.js.map": "/ericsonportfolireact/static/js/2.97347912.chunk.js.map",
+    "index.html": "/ericsonportfolireact/index.html",
+    "precache-manifest.e110ef5d0361fb8fc404c72df0bb7baa.js": "/ericsonportfolireact/precache-manifest.e110ef5d0361fb8fc404c72df0bb7baa.js",
+    "service-worker.js": "/ericsonportfolireact/service-worker.js",
+    "static/css/2.e15a0812.chunk.css.map": "/ericsonportfolireact/static/css/2.e15a0812.chunk.css.map",
+    "static/css/main.747b7de1.chunk.css.map": "/ericsonportfolireact/static/css/main.747b7de1.chunk.css.map",
+    "static/js/2.97347912.chunk.js.LICENSE.txt": "/ericsonportfolireact/static/js/2.97347912.chunk.js.LICENSE.txt",
+    "static/media/demo.svg": "/ericsonportfolireact/static/media/demo.86bd217e.svg",
+    "static/media/formal.jpg": "/ericsonportfolireact/static/media/formal.6763d2d3.jpg",
+    "static/media/self.jpg": "/ericsonportfolireact/static/media/self.6fff38b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7a4f8db.js",
+    "static/css/2.e15a0812.chunk.css",
+    "static/js/2.97347912.chunk.js",
+    "static/css/main.747b7de1.chunk.css",
+    "static/js/main.f94b4769.chunk.js"
+  ]
+}
