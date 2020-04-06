@@ -65,6 +65,10 @@ class ProjectTabPanel extends Component {
                       <Typography className={styles.projectDescription}>
                         {project.Description}
                       </Typography>
+
+                      <Typography className={styles.projectDescription}>
+                        {project.role}
+                      </Typography>
                     </CardContent>
                     <CardActions
                       className={styles.openDetailActionPanel}
@@ -77,7 +81,7 @@ class ProjectTabPanel extends Component {
                         color='primary'
                         onClick={() => window.open(project.ProjectLink)}
                       >
-                        View Detail
+                        Actual Website
                       </Button>
                     </CardActions>
                   </Card>

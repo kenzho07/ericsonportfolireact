@@ -191,28 +191,32 @@
   ],
   "Projects": [
     {
-      "Name": "Demo Project 1",
-      "Description": "Demo",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "Name": "Kleengreen Website Development",
+      "Description": "A Long term client in Canada. Design and Custom Plugin to make the website clean,functional and clean. Developed front end website architecture , Developed back end website applications, Create servers and databases for functionality , Staying abreast of developments in web applications and programming languages",
+      "role": "ROLE: FULLSTACK Developer ",
+      "ScreenShotURL": "./kleengreen.jpg",
+      "ProjectLink": "https://kleengreen.org/"
     },
     {
-      "Name": "Demo Project 2",
-      "Description": "Demo",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "Name": "Tao Philippines Website ",
+      "Description": "A Philippine based company TAOPALAWAN lost boys inc deliverables done. 1 customized theme. 2 customized plugins.3 SEO onpage/offpage/local implementaion",
+      "role": "ROLE: Team Member as Web Developer",
+      "ScreenShotURL": "./tao.png",
+      "ProjectLink": "https://www.taophilippines.com/"
     },
     {
-      "Name": "Demo Project 3",
-      "Description": "Demo",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "Name": "Mirex Marketing Website",
+      "Description": "Australian base Website created for my client. I worked as Wordpress Developer,reliable on plugins customization and SEO specialist",
+      "role": "Role: Wordpress Developer and SEO specialist ",
+      "ScreenShotURL": "./mirex.png",
+      "ProjectLink": "https://www.mirexmarketing.com/"
     },
     {
-      "Name": "Demo Project 4",
-      "Description": "Demo",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "Name": "All Green Carpet Cleaning Website",
+      "Description": "Designing and building the website front-end , Designing and managing the website back-end including database and server integration , Generating WordPress themes and plugins , Conducting website performance tests",
+      "role": "Role: Wordpress Developer Team Member ",
+      "ScreenShotURL": "./allgreen.png",
+      "ProjectLink": "https://allgreencarpetclean.com/"
     }
   ],
   "Education": [
