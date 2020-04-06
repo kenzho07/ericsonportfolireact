@@ -1,8 +1,8 @@
-# React Personal Resume Template with Material UI Theme
+# React Personal Resume Template edited by Ericson
 
 ![React Personal Website Template](https://github.com/kenzho07/ericsonportfolireact/blob/master/demo/demo.png?raw=true)
 
-## 🎉 [Demo Page](https://waynezhang1995.github.io/react-personal-website-template/)
+## 🎉 [Demo Page](https://kenzho07.github.io/ericsonportfolireact/)
 
 ## Introduction
 
@@ -40,9 +40,11 @@ Edit website path in `package.json`. This will normally be `https://[your accoun
 Publish
 
 ```
-npm deploy
+npm run deploy
 ```
 
 ## Credit
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [gh-pages](https://github.com/tschaub/gh-pages)
+
+Edited by: Ericson V. Ciriaco
