@@ -10,7 +10,7 @@
     "moment": "^2.22.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "react-swipeable-views": "^0.13.9",
     "reactstrap": "^7.1.0",
     "update": "^0.7.4"
